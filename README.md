@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=h111en.h111en" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=500&color=F778D2&random=false&width=435&lines=Welcome!;+to+Hiba's+profile!;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=500&color=F778D2&center=true&vCenter=true&random=false&width=435&lines=Welcome!;+to+Hiba's+profile!;" />
 </h1>
 
 <br/>
