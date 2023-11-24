@@ -7,11 +7,11 @@
 <br/>
 
 <div align="center">
-               ♥
+               
   I'm a 19-year-old girl from Morocco
-               ♥
+               
   Currently a CyberSecurity student
-               ♥
+               
  </div>
  
 <div align="center"> 
