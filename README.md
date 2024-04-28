@@ -8,9 +8,8 @@
 
 <div align="center">
                
-  I'm a 19-year-old girl from Morocco
-               
-  Currently a CyberSecurity student
+    19 year old moroccan cyberseurity trainee
+    currently a dev intern
                
  </div>
  
