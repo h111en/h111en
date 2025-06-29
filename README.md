@@ -8,8 +8,8 @@
 
 <div align="center">
                
-    19 year old moroccan cyberseurity trainee
-    currently a dev intern
+    20 year old moroccan specialist in Networking and Cybersecurity
+    currently a web dev trainee
                
  </div>
  
